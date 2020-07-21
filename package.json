@@ -1,0 +1,19 @@
+{
+  "name": "xlsx-d3",
+  "version": "1.0.0",
+  "description": "First attempt using D3.js working with production tables in xlsx format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbandeo/xlsx-d3.git"
+  },
+  "author": "Bruno Bandeo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbandeo/xlsx-d3/issues"
+  },
+  "homepage": "https://github.com/bbandeo/xlsx-d3#readme"
+}
