@@ -18,7 +18,7 @@ module.exports.run = async () => {
     })
         .catch(err => {
             if (err.message === 'index_not_found_exception') {
-                console.log('Elasticsearch Db Index not found...');
+                console.log('Elasticsearch database Index not found...');
             }
             console.trace(err.message)
         })
